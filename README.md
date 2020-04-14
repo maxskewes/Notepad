@@ -11,7 +11,7 @@ Install the prerequisites by running 'npm install' in terminal.
 Run node in terminal after the prerequisites have been installed. To view the app in a browser, use localhost:[portnumber]. The default port number is 8080.
 
 ## Deployment
-Click [here]() to view the app in Heroku.
+Click [here](https://sheltered-cove-32541.herokuapp.com/) to view the app in Heroku.
 
 ## Built with
 * [Javascript](https://www.javascript.com/)
