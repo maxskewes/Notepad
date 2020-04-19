@@ -1,6 +1,8 @@
 # NOTEPAD
 ### ©2020
 
+![Alt text](./readmeNotepad.png?raw=true "AppImage")
+
 ## Descriptiion
 An app that allows users to take notes. The app allows easy organization with a list of note titles. Users may post, edit and delte notes as desired.
 
