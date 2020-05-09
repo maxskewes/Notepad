@@ -3,6 +3,9 @@
 
 ![Alt text](./readmeNotepad.png?raw=true "AppImage")
 
+## Deployment
+Click [here](https://sheltered-cove-32541.herokuapp.com/) to view the deployed app in Heroku.
+
 ## Descriptiion
 An app that allows users to take notes. The app allows easy organization with a list of note titles. Users may post, edit and delte notes as desired.
 
@@ -11,9 +14,6 @@ Install the prerequisites by running 'npm install' in terminal.
 
 ## Running the app
 Run node in terminal after the prerequisites have been installed. To view the app in a browser, use localhost:[portnumber]. The default port number is 8080.
-
-## Deployment
-Click [here](https://sheltered-cove-32541.herokuapp.com/) to view the app in Heroku.
 
 ## Built with
 * [Javascript](https://www.javascript.com/)
